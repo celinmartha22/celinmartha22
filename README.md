@@ -10,9 +10,10 @@
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=celinmartha22&show_icons=true" />
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=celinmartha22&layout=compact" />
 </picture>
+
+
+<img aligh="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celinmartha22&layout=compact" />
 
 
 <!--
