@@ -1,7 +1,7 @@
 ### Hi, I'm Celine 👋
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=celinmartha22&show_icons=tru&theme=highcontrast" />
+<img src="https://github-readme-stats.vercel.app/api?username=celinmartha22&show_icons=tru&title_color=E6BA95&text_color=A2B38B&icon_color=E4E9BE" />
 <img aligh="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celinmartha22&layout=compact" />
 
 
